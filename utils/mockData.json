@@ -1,0 +1,58 @@
+[{
+    "company": "Cogidoo",
+    "position": "Help Desk Technician",
+    "jobLocation": "Vyksa",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2022-07-25T21:26:23Z"
+  },
+
+  {
+    "company": "Cogidoo1",
+    "position": "Help Desk Technician1",
+    "jobLocation": "Vyksa1",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2022-08-25T21:26:23Z"
+  },
+  {
+    "company": "ABC",
+    "position": "GM",
+    "jobLocation": "Madurai",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2022-08-25T21:26:23Z"
+  },
+  {
+    "company": "BHP",
+    "position": "Vice President",
+    "jobLocation": "Vizag",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2022-04-25T21:26:23Z"
+  },
+  {
+    "company": "Anz",
+    "position": "Data Manager",
+    "jobLocation": "Copenhagen",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2022-09-25T21:26:23Z"
+  },
+  {
+    "company": "Lyreco",
+    "position": "CFO",
+    "jobLocation": "Alborg",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2022-02-25T21:26:23Z"
+  },
+  {
+    "company": "Compass group",
+    "position": " President",
+    "jobLocation": "Aarhus",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2022-11-25T21:26:23Z"
+  }
+]
