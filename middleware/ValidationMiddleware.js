@@ -5,9 +5,10 @@ import {
   UnauthorizedError,
 } from "../errors/CustomError.js";
 import { JOB_STATUS, JOB_TYPE } from "../utils/constants.js";
-import User from "../models/UserModel.js";
+import Job from '../models/JobModel.js';
+import User from '../models/UserModel.js';
 import mongoose from "mongoose";
-import Job from "../models/JobModel.js";
+
 export const withValidationErrors = (validateValues) => {
   return [
     validateValues,
